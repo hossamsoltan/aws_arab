@@ -1,0 +1,7 @@
+  env_tag = "aws_arab"
+  env_region = "us-east-1"
+  vpc_cidr_block = "10.0.0.0/16"
+  public_subnet_cidr_blocks_1a = "10.0.10.0/24"
+  public_subnet_cidr_blocks_1b = "10.0.20.0/24"
+  private_subnet_cidr_blocks_1a = "10.0.100.0/24"
+  private_subnet_cidr_blocks_1b = "10.0.200.0/24"
